@@ -1,0 +1,28 @@
+name: 15rule
+favicon: null
+layout_spectrum: 0.06846056459471583
+typography_spectrum: 0.3403839496895671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.03070635348558426
+  lightness: 0.6269720944110304
+  saturation: 0.24840249540284276
+  rhythmicContrast: 0.7853147238492966
+purpose: []
